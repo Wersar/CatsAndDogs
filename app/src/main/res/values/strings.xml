@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CatsAndDogs</string>
+
+    <string name="tab_left">Tab 1</string>
+    <string name="tab_right">Tab 2</string>
+
+    <string name="image_description">Image</string>
+</resources>
